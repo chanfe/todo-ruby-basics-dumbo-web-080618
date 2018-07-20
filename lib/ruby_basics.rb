@@ -18,7 +18,7 @@ def return_a_value
   "Nice"
 end
 
-def last_evaluated_value(last)
+def last_evaluated_value()
   "expert"
 end
 
